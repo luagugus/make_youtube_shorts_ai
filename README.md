@@ -22,8 +22,8 @@ GPT를 사용해 스크립트를 작성하고, Typecast를 통해 음성을 생�
 
 ### 📌 1. 저장소 클론
 ```bash
-git clone https://github.com/yourname/shorts-generator.git
-cd shorts-generator
+git clone https://github.com/yourname/make_youtube_shorts_ai.git
+cd returning
 ```
 
 ### 📌 2. 가상환경 생성, 실행
