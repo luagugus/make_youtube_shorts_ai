@@ -23,7 +23,7 @@ GPT를 사용해 스크립트를 작성하고, Typecast를 통해 음성을 생�
 ### 📌 1. 저장소 클론
 ```bash
 git clone https://github.com/luagugus/make_youtube_shorts_ai.git
-cd returning
+cd make_youtube_shorts_ai
 ```
 
 ### 📌 2. 가상환경 생성, 실행
@@ -34,7 +34,7 @@ cd returning
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-streamlit run main.py
+streamlit run run.py
 ```
 
 🍎 macOS / Linux
@@ -43,7 +43,7 @@ streamlit run main.py
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-streamlit run main.py
+streamlit run run.py
 ```
 
 
